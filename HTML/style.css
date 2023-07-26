@@ -1,0 +1,19 @@
+.tabla1{
+    display: flex;
+    border: 2px solid rgb(35, 158, 49);
+}
+
+.content {
+    border: 2px solid rgb(35, 158, 49);
+}
+
+.MainContainer {
+    display: flex;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .borde {
+    border: 2px solid rgb(35, 158, 49);
+} */
